@@ -1,6 +1,6 @@
-# might_blade_dice
+# Might Blade Dice
 
-A new Flutter project.
+Este projeto simula o lançamento de dados, para a plataforma de RPG Might Blade.
 
 ## Getting Started
 
