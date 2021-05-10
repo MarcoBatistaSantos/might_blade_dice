@@ -7,7 +7,7 @@ void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
   static const String _title = 'Dados Might Blade';
-  static const String name = "";
+  static const String name = "teste";
 
   @override
   Widget build(BuildContext context) {
