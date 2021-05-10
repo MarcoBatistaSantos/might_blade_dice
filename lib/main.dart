@@ -85,6 +85,7 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
     );
   }
 
+//teste
   void _onItemTapped(int index) {
     setState(() {
       _selectedIndex = index;
